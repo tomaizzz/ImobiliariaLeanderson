@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ContratoDAO {
     public void cadastrar(Scanner sc) {
-        System.out.println("Cadastro de contrato simulado (sem BD).");
+        System.out.println("Cadastro de contrato simulado.");
     }
     public void listarAtivos() {
         System.out.println("Relatório de contratos ativos (simulado).");

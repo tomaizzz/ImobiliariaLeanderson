@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ImovelDAO {
     public void cadastrar(Scanner sc) {
-        System.out.println("Cadastro de imóvel simulado (sem BD).");
+        System.out.println("Cadastro de imóvel simulado.");
     }
     public void listarDisponiveis() {
         System.out.println("Relatório de imóveis disponíveis (simulado).");
